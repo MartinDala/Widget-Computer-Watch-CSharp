@@ -1,0 +1,12 @@
+C:\Users\Martin Dala\source\repos\Widget\Widget\bin\Debug\Widget.exe.config
+C:\Users\Martin Dala\source\repos\Widget\Widget\bin\Debug\Widget.exe
+C:\Users\Martin Dala\source\repos\Widget\Widget\bin\Debug\Widget.pdb
+C:\Users\Martin Dala\source\repos\Widget\Widget\obj\Debug\Widget.csprojAssemblyReference.cache
+C:\Users\Martin Dala\source\repos\Widget\Widget\obj\Debug\Widget.Form1.resources
+C:\Users\Martin Dala\source\repos\Widget\Widget\obj\Debug\Widget.Properties.Resources.resources
+C:\Users\Martin Dala\source\repos\Widget\Widget\obj\Debug\Widget.csproj.GenerateResource.cache
+C:\Users\Martin Dala\source\repos\Widget\Widget\obj\Debug\Widget.csproj.CoreCompileInputs.cache
+C:\Users\Martin Dala\source\repos\Widget\Widget\obj\Debug\Widget.exe
+C:\Users\Martin Dala\source\repos\Widget\Widget\obj\Debug\Widget.pdb
+C:\Users\Martin Dala\source\repos\Widget\Widget\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Martin Dala\source\repos\Widget\Widget\obj\Debug\Widget.csproj.CopyComplete
